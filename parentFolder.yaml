@@ -1,0 +1,6 @@
+apiVersion: grizzly.grafana.com/v1alpha1
+kind: DashboardFolder
+metadata:
+  name: parentFolder2
+spec:
+  title: parentFolder2
