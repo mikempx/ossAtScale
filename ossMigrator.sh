@@ -162,7 +162,7 @@ upload_dashboards() {
     grr config create-context destination
     grr config set grafana.user api_key
     grr config set grafana.url "https://knicks.grafana.net"
-    grr config set grafana.token "glsa_pdh0olLm"
+    grr config set grafana.token "glsa_***Lm"
     grr config set targets Dashboard,DashboardFolder
     grr config set output-format json
     grr push "$inst"/folders/
