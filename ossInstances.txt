@@ -1,2 +1,2 @@
-eastGE:wyckoff.grafana.net:glsa_SrmI1yIO0goYunuUl_f3b2a71e
-westGE:wyckoff.grafana.net:glsa_Srn9WsAx5JbDKfDll_f3b2a71e
+eastGE:wyckoff.grafana.net:glsa_Srm*****71e
+westGE:wyckoff.grafana.net:glsa_Srn****2a71e
